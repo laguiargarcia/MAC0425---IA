@@ -11,7 +11,7 @@
 # Student side autograding was added by Brad Miller, Nick Hay, and
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
-
+# LUCAS AGUIAR GARCIA - 13672770
 """
 In search.py, you will implement generic search algorithms which are called by
 Pacman agents (in searchAgents.py).
